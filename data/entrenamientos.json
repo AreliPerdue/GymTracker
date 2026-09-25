@@ -1,0 +1,238 @@
+[
+    {
+        "fecha": "03/09/2026",
+        "grupoMuscular": "Pecho",
+        "pesoCorporal": 64.2,
+        "duracion": 55,
+        "nombreRutina": "Pecho y tríceps",
+        "ejercicios": [
+            {
+                "idEjercicio": 1,
+                "nombreEjercicio": "Press de banca",
+                "pesoEjercicio": 35,
+                "series": 4,
+                "repeticiones": 10,
+                "equipo": "Barra"
+            },
+            {
+                "idEjercicio": 2,
+                "nombreEjercicio": "Aperturas",
+                "pesoEjercicio": 8,
+                "series": 3,
+                "repeticiones": 12,
+                "equipo": "Mancuernas"
+            },
+            {
+                "idEjercicio": 3,
+                "nombreEjercicio": "Extensión de tríceps",
+                "pesoEjercicio": 15,
+                "series": 3,
+                "repeticiones": 12,
+                "equipo": "Polea"
+            }
+        ],
+        "notas": "Buena técnica y ritmo constante durante toda la sesión.",
+        "categoriaNota": "Técnica",
+        "colorGrupo": "#FF6B6B",
+        "iconoGrupo": "💪",
+        "idEntrenamiento": 1
+    },
+    {
+        "fecha": "07/09/2026",
+        "grupoMuscular": "Pierna",
+        "pesoCorporal": 64.0,
+        "duracion": 70,
+        "nombreRutina": "Pierna completa",
+        "ejercicios": [
+            {
+                "idEjercicio": 1,
+                "nombreEjercicio": "Sentadilla",
+                "pesoEjercicio": 45,
+                "series": 4,
+                "repeticiones": 8,
+                "equipo": "Barra"
+            },
+            {
+                "idEjercicio": 2,
+                "nombreEjercicio": "Prensa inclinada",
+                "pesoEjercicio": 90,
+                "series": 4,
+                "repeticiones": 12,
+                "equipo": "Prensa"
+            },
+            {
+                "idEjercicio": 3,
+                "nombreEjercicio": "Curl femoral",
+                "pesoEjercicio": 25,
+                "series": 3,
+                "repeticiones": 12,
+                "equipo": "Máquina"
+            }
+        ],
+        "notas": "Aumenté cinco kilos en sentadilla sin perder profundidad.",
+        "categoriaNota": "Progreso",
+        "colorGrupo": "#FFB84D",
+        "iconoGrupo": "🦵",
+        "idEntrenamiento": 2
+    },
+    {
+        "fecha": "11/09/2026",
+        "grupoMuscular": "Espalda",
+        "pesoCorporal": 63.8,
+        "duracion": 60,
+        "nombreRutina": "Espalda fuerte",
+        "ejercicios": [
+            {
+                "idEjercicio": 1,
+                "nombreEjercicio": "Jalón al pecho",
+                "pesoEjercicio": 35,
+                "series": 4,
+                "repeticiones": 10,
+                "equipo": "Polea"
+            },
+            {
+                "idEjercicio": 2,
+                "nombreEjercicio": "Remo sentado",
+                "pesoEjercicio": 30,
+                "series": 4,
+                "repeticiones": 10,
+                "equipo": "Polea"
+            },
+            {
+                "idEjercicio": 3,
+                "nombreEjercicio": "Peso muerto rumano",
+                "pesoEjercicio": 40,
+                "series": 3,
+                "repeticiones": 8,
+                "equipo": "Barra"
+            }
+        ],
+        "notas": "Mantener el pecho elevado durante el remo.",
+        "categoriaNota": "Recordatorio",
+        "colorGrupo": "#56A8FF",
+        "iconoGrupo": "🏋",
+        "idEntrenamiento": 3
+    },
+    {
+        "fecha": "16/09/2026",
+        "grupoMuscular": "Glúteo",
+        "pesoCorporal": 63.9,
+        "duracion": 50,
+        "nombreRutina": "Glúteo y estabilidad",
+        "ejercicios": [
+            {
+                "idEjercicio": 1,
+                "nombreEjercicio": "Hip thrust",
+                "pesoEjercicio": 55,
+                "series": 4,
+                "repeticiones": 10,
+                "equipo": "Barra"
+            },
+            {
+                "idEjercicio": 2,
+                "nombreEjercicio": "Patada de glúteo",
+                "pesoEjercicio": 12.5,
+                "series": 3,
+                "repeticiones": 15,
+                "equipo": "Polea"
+            },
+            {
+                "idEjercicio": 3,
+                "nombreEjercicio": "Abducción de cadera",
+                "pesoEjercicio": 30,
+                "series": 3,
+                "repeticiones": 15,
+                "equipo": "Máquina"
+            }
+        ],
+        "notas": "Sesión ligera, concentrada en controlar cada repetición.",
+        "categoriaNota": "General",
+        "colorGrupo": "#A78BFA",
+        "iconoGrupo": "★",
+        "idEntrenamiento": 4
+    },
+    {
+        "fecha": "21/09/2026",
+        "grupoMuscular": "Hombro",
+        "pesoCorporal": 63.7,
+        "duracion": 45,
+        "nombreRutina": "Hombros y movilidad",
+        "ejercicios": [
+            {
+                "idEjercicio": 1,
+                "nombreEjercicio": "Press militar",
+                "pesoEjercicio": 20,
+                "series": 4,
+                "repeticiones": 8,
+                "equipo": "Barra"
+            },
+            {
+                "idEjercicio": 2,
+                "nombreEjercicio": "Elevaciones laterales",
+                "pesoEjercicio": 6,
+                "series": 3,
+                "repeticiones": 15,
+                "equipo": "Mancuernas"
+            },
+            {
+                "idEjercicio": 3,
+                "nombreEjercicio": "Face pull",
+                "pesoEjercicio": 12.5,
+                "series": 3,
+                "repeticiones": 15,
+                "equipo": "Polea"
+            }
+        ],
+        "notas": "Sin molestias en el hombro derecho. Repetir calentamiento.",
+        "categoriaNota": "Progreso",
+        "colorGrupo": "#35D07F",
+        "iconoGrupo": "◎",
+        "idEntrenamiento": 5
+    },
+    {
+        "fecha": "25/09/2026",
+        "grupoMuscular": "Cuerpo completo",
+        "pesoCorporal": 63.5,
+        "duracion": 65,
+        "nombreRutina": "Full body de viernes",
+        "ejercicios": [
+            {
+                "idEjercicio": 1,
+                "nombreEjercicio": "Sentadilla goblet",
+                "pesoEjercicio": 18,
+                "series": 4,
+                "repeticiones": 12,
+                "equipo": "Mancuerna"
+            },
+            {
+                "idEjercicio": 2,
+                "nombreEjercicio": "Press inclinado",
+                "pesoEjercicio": 12,
+                "series": 3,
+                "repeticiones": 10,
+                "equipo": "Mancuernas"
+            },
+            {
+                "idEjercicio": 3,
+                "nombreEjercicio": "Remo con mancuerna",
+                "pesoEjercicio": 16,
+                "series": 3,
+                "repeticiones": 12,
+                "equipo": "Mancuerna"
+            },
+            {
+                "idEjercicio": 4,
+                "nombreEjercicio": "Plancha",
+                "pesoEjercicio": 0,
+                "series": 3,
+                "repeticiones": 30,
+                "equipo": "Peso corporal"
+            }
+        ],
+        "notas": "Entrenamiento completo para cerrar la semana con energía.",
+        "categoriaNota": "General",
+        "colorGrupo": "#35D07F",
+        "iconoGrupo": "🏋",
+        "idEntrenamiento": 6
+    }
+]
