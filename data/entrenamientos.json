@@ -234,5 +234,43 @@
         "colorGrupo": "#35D07F",
         "iconoGrupo": "🏋",
         "idEntrenamiento": 6
+    },
+    {
+        "fecha": "25/09/2026",
+        "grupoMuscular": "Glúteo",
+        "pesoCorporal": 70.0,
+        "duracion": 30,
+        "nombreRutina": "Club Valle - Gluteo",
+        "ejercicios": [
+            {
+                "idEjercicio": 1,
+                "nombreEjercicio": "Sentadilla",
+                "pesoEjercicio": 20.0,
+                "series": 2,
+                "repeticiones": 10,
+                "equipo": "banda de resistencia"
+            },
+            {
+                "idEjercicio": 2,
+                "nombreEjercicio": "Donkey kick",
+                "pesoEjercicio": 20.0,
+                "series": 2,
+                "repeticiones": 10,
+                "equipo": "banda de resistencia"
+            },
+            {
+                "idEjercicio": 3,
+                "nombreEjercicio": "laterales",
+                "pesoEjercicio": 10.0,
+                "series": 2,
+                "repeticiones": 10,
+                "equipo": "banda de resistencia"
+            }
+        ],
+        "notas": "Entrenar gluteo despues de 20 min de cardio en la caminadora",
+        "categoriaNota": "Recordatorio",
+        "colorGrupo": "#A78BFA",
+        "iconoGrupo": "🦵",
+        "idEntrenamiento": 7
     }
 ]
